@@ -2,8 +2,7 @@
   To display the word "Hello World" in message box through Uipath Studio
 
 # Software Requirements:
-    UiPath Studio Community or Enterprise E
-    dition
+    UiPath Studio Community or Enterprise Edition
     NET Framework (automatically handled by UiPath)
 
 # Project Structure:
